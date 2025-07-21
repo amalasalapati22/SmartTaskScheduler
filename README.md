@@ -1,7 +1,6 @@
 # SmartTaskScheduler
 
-###  Developed by: Amala Tejasri Chalapathi  
-###  B.Tech in Information Technology (2023)
+###  Developed by: Amala Tejasri Chalapathi
 
 ##  Project Description
 A Java-based console application to manage daily tasks with priority handling. This project was completed as part of the internship phase to demonstrate Java and OOP fundamentals.
