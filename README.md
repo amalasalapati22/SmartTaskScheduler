@@ -1,22 +1,36 @@
 # SmartTaskScheduler
+Developed by: Amala Tejasri Chalapathi
 
-###  Developed by: Amala Tejasri Chalapathi
+# Smart Task Scheduler with Priority Queues
 
-##  Project Description
-A Java-based console application to manage daily tasks with priority handling. This project was completed as part of the internship phase to demonstrate Java and OOP fundamentals.
+A simple JavaFX desktop application to manage tasks based on urgency. Users can add, view, and delete tasks using a GUI. Internally, it uses Java’s `PriorityQueue` to sort tasks by priority.
 
 ## Features
-- Add a new task (title + priority)
-- View all tasks (sorted by priority)
-- Mark task as completed
-- Delete any task
 
-# Technologies Used
-- Java (Core)
-- PriorityQueue
-- Object-Oriented Programming (OOP)
+- Add new tasks with title and priority (1 = High)
+- View all tasks in priority order
+- Delete the top-priority task
+- JavaFX GUI-based, no console needed
+
+##  Tools Used
+
+- Java 17+
+- JavaFX SDK 21
+- Eclipse IDE
+- GitHub
 
 ## Screenshots
-<img width="503" height="701" alt="Output" src="https://github.com/user-attachments/assets/8f344a48-06dc-46c0-8703-2eca33883299" />
+## App
+<img width="736" height="523" alt="App" src="https://github.com/user-attachments/assets/176dd42c-05ee-44ec-9290-972144621be2" />
 
-<img width="556" height="445" alt="Output1" src="https://github.com/user-attachments/assets/0d18b0d2-2f5e-4037-9d00-fc683adf262b" />
+## Task Added
+<img width="734" height="524" alt="TaskAdded" src="https://github.com/user-attachments/assets/18f58a91-aa36-49ed-8418-afc0c3178d7f" />
+
+## View Tasks
+<img width="736" height="515" alt="ViewTasks" src="https://github.com/user-attachments/assets/cbb674be-3d69-4a3c-9570-e95fbfaa9a9d" />
+
+# Task Deleted
+<img width="727" height="460" alt="TaskDeleted" src="https://github.com/user-attachments/assets/91858009-2542-47e5-b752-85006c7e6c91" />
+
+##  How to Run
+java -jar SmartTaskScheduler.jar
