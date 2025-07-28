@@ -10,13 +10,11 @@ A Java-based console application to manage daily tasks with priority handling. T
 - View all tasks (sorted by priority)
 - Mark task as completed
 - Delete any task
-- Console-based menu system
 
-## Tools & Technologies
-- Java (JDK 17)
-- IntelliJ IDEA
-- Java Collections
-- Scanner (for user input)
+# Technologies Used
+- Java (Core)
+- PriorityQueue
+- Object-Oriented Programming (OOP)
 
 ## Screenshots
 <img width="503" height="701" alt="Output" src="https://github.com/user-attachments/assets/8f344a48-06dc-46c0-8703-2eca33883299" />
